@@ -8,13 +8,6 @@ Official implementation of **GluNet**, a **gloss-free** Sign Language Translatio
 
 ---
 
-## 📢 Code Release
-
-**The full codebase will be released within two weeks.**  
-In the meantime, this repository provides the paper information, planned structure, and reproducibility checklist.  
-
----
-
 ## ✨ Highlights
 
 - **Gloss-free SLT**: no manual gloss annotations required.
